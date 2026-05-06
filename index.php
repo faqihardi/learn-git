@@ -1,3 +1,3 @@
 <?php
-
-echo "Bapnedik wkkwk";
+?>
+<h1>Hello Bro</h1>
